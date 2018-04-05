@@ -1,0 +1,1 @@
+INSERT INTO utensili (Prodotto,Descrizione,Quantita,Barcode) VALUE ('Saldatore','Saldatore a stagno','100','00000001');

@@ -1,0 +1,33 @@
+C:\Users\Crash\source\repos\Magazzino\Magazzino\bin\Debug\Magazzino.exe.config
+C:\Users\Crash\source\repos\Magazzino\Magazzino\bin\Debug\Magazzino.exe
+C:\Users\Crash\source\repos\Magazzino\Magazzino\bin\Debug\Magazzino.pdb
+C:\Users\Crash\source\repos\Magazzino\Magazzino\bin\Debug\Magazzino.xml
+C:\Users\Crash\source\repos\Magazzino\Magazzino\bin\Debug\MySql.Data.dll
+C:\Users\Crash\source\repos\Magazzino\Magazzino\bin\Debug\MySql.Data.xml
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.vbprojResolveAssemblyReference.cache
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.Form1.resources
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.Resources.resources
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.vbproj.GenerateResource.Cache
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.vbproj.CoreCompileInputs.cache
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.exe
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.xml
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.pdb
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.Add_Items.resources
+C:\Users\Crash\source\repos\Magazzino\Magazzino\obj\Debug\Magazzino.Edit_Items.resources
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\bin\Debug\Magazzino.exe.config
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\bin\Debug\Magazzino.exe
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\bin\Debug\Magazzino.pdb
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\bin\Debug\Magazzino.xml
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\bin\Debug\MySql.Data.dll
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\bin\Debug\MySql.Data.xml
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.vbprojResolveAssemblyReference.cache
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.Add_Items.resources
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.Edit_Items.resources
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.Form1.resources
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.Resources.resources
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.vbproj.GenerateResource.cache
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.vbproj.CoreCompileInputs.cache
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.vbproj.CopyComplete
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.exe
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.xml
+E:\MEGA\Download\Progetti Programmazione\VB NET\Magazzino\Magazzino\obj\Debug\Magazzino.pdb
